@@ -1,0 +1,6 @@
+  202  git clone https://github.com/avangelinac/crypto_arbitrage.git
+  203  cd crypto_arbitrage
+  204  git add .
+  205  git commit -m "commit"
+  206  git push origin main
+  207  history 6 > terminal_history.txt
