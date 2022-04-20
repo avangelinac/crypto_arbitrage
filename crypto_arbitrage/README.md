@@ -93,11 +93,10 @@ Applied financial analysis in three stages to determine the arbitrage of Bitcoin
 Screenshots and code of working application
 
 #### Exchange Comparison January 2018
-![Exchange January Screen Shot][exchange-january-screenshot]
+![Example Input](images/exchange_january_2018.png)
 
 #### Exchange Comparison March 2018 - With Analysis
-![Exchange March Screen Shot][exchange-march-screenshot]
-
+![Example Input](images/exchange_march_2018.png)
 
 #### Calculate Arbitrage Profits Sample - for January 16
   *This code has been summarized into one block for convenience*
